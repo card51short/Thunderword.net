@@ -4,32 +4,30 @@
     </head>
     <body>
         <aside>
-                    
-                    <img src="images/logos/topStoriesLogo.png" class="smallLogo">
-                    <hr>
-                    <a href="articleBlock2.php"><p>International students get back into career fields</p></a>
-                    <hr>
-                    <a href="campusLifeArticleBlock1.php"><p>Student's work saves cyber competition</p></a>
-                    <hr>
-                    <a href="campusLifeArticleBlock2.php"><p>Highline grad receives prestigious award</p></a>
-                    <hr>
-                    <a href="artArticleBlock1.php"><p>It's festival season</p></a>
-                    <hr>
-                    <a href="newsArticleBlock1.php"><p>Quantum computing launches tech light years into the future</p></a>
-                    <hr>
-                    <a href="campusLife.php"><p>Retirees off to new adventures</p></a>
-                    <hr>
-                    <a href="sportsArticleBlock2.php"><p>Seven habits of highly effective exercisers</p></a>
-                    <hr>
-                    <a href="artArticleBlock3.php"><p>It's the Waterfront and a lot more...</p></a>
-                    <hr>
-                    <img src="images/ads/ad1.png" class="ad">
+		
+			<img src="images/logos/topStoriesLogo.png" class="smallLogo">
+			<hr>
+			<a href="index.php?action=index2"><p>Highline helps to create safe place for survivors</p></a>
+			<hr>
+			<a href="index.php?action=campus"><p>Saving souls and sinners.</p></a>
+			<hr>
+			<a href="index.php?action=art"><p>Planting the seeds of art</p></a>
+			<hr>
+			<a href="index.php?action=art3"><p>Halloween events help you get your inner ghoul on</p></a>
+			<hr>
+			<a href="index.php?action=sports"><p>T-Birds shut out all opposing teams</p></a>
+			<hr>
+			<a href="index.php?action=sports3"><p>T-Birds kick it into overdrive, burn SPS</p></a>
+			<hr>
+			<a href="index.php?action=news"><p>School funds divide FW candidates</p></a>
+			<hr>
+			<a href="index.php?action=news1"><p>Presidential hopefuls get dissected at forum</p></a>
+		<hr>
+			<a href="http://highline.edu/bas" target="#"><img src="ads/bob.png" class="ad"></a>
                     
                     
                 </aside>
-                <a href="mailto:tword@highline.edu">
-                    <img src="images/ads/ad2.png" class="ad2">
-                </a>
+               
         
                 
     </body>
